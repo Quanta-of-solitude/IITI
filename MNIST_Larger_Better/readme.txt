@@ -1,4 +1,4 @@
-MnNIST properdataset used.
+MNIST properdataset used.
 Higher accuracy and more Convulation Layers
 
 model saved after training as mnist_larger_skb.h5
