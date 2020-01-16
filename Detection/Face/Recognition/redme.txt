@@ -1,0 +1,7 @@
+The custom trained model recognizes skb and jordenpiu
+
+weights in recognizer_skb.h5
+
+tested on both mtcnn and haar cascades
+
+MTCNN won
