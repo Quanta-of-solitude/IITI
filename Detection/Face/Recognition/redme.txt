@@ -5,3 +5,14 @@ weights in recognizer_skb.h5
 tested on both mtcnn and haar cascades
 
 MTCNN won
+
+datas used:
+
+skb = train 1500 ,test =800
+jordenpiu = train=1500, test=800
+
+(Data not included)
+
+skb with pecs works better than without
+
+Binary classification and recognition
